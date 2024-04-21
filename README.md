@@ -1,7 +1,7 @@
-# Line-following-robot 
-EEE3099S: Mechatronic Design 
-Completed: November 2021 
-Project Partner: SHKMOH25 
+# Line-following-robot  
+EEE3099S: Mechatronic Design  
+Completed: November 2021  
+Project Partner: SHKMOH25  
 
 Files Included:
 1. JFTCRY001_SHKMOH025_EEE3099S_Milestone4.pdf: Project report
